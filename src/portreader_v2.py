@@ -13,7 +13,7 @@ import serial
 from matplotlib import pyplot as plt
 
 
-with serial.Serial ('COM10', 115200) as ser_port:
+with serial.Serial ('COM26', 115200) as ser_port:
     
     ser_port.write (b'0\r\n')
     time.sleep(1)
