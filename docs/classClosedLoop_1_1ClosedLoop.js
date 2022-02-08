@@ -1,0 +1,26 @@
+var classClosedLoop_1_1ClosedLoop =
+[
+    [ "__init__", "classClosedLoop_1_1ClosedLoop.html#a3498e98d186fb61f42dd7da229a3ac91", null ],
+    [ "control_loop", "classClosedLoop_1_1ClosedLoop.html#ac4877833700848d8aa6eab214329b709", null ],
+    [ "control_loop2", "classClosedLoop_1_1ClosedLoop.html#ae0ce550be739924d6f2cffec0259969f", null ],
+    [ "printdata", "classClosedLoop_1_1ClosedLoop.html#a26cc9576af3f7e1f8485fadee6bc2350", null ],
+    [ "SetKp", "classClosedLoop_1_1ClosedLoop.html#aa62064d87f2e45ce2e0c5b7134b5c39b", null ],
+    [ "Setpoint", "classClosedLoop_1_1ClosedLoop.html#ac0a3b73f886e27dcc8c4dba8315bac7d", null ],
+    [ "actuation1", "classClosedLoop_1_1ClosedLoop.html#a0cb33a86da81eea324576b27210fcaf0", null ],
+    [ "actuation2", "classClosedLoop_1_1ClosedLoop.html#aaa1611f74efc67745b45b73668b01c68", null ],
+    [ "duty1", "classClosedLoop_1_1ClosedLoop.html#ac963cae2148ffb369030ffd58eddae64", null ],
+    [ "duty2", "classClosedLoop_1_1ClosedLoop.html#ac5c07928efbaefc2b9bf9376ea37c3bb", null ],
+    [ "EncPosition1", "classClosedLoop_1_1ClosedLoop.html#a5e1d8ad71b1b5d6fb815fd057e998c82", null ],
+    [ "EncPosition2", "classClosedLoop_1_1ClosedLoop.html#abc0fc95770b88ff6781a69cb2b817c9c", null ],
+    [ "error1", "classClosedLoop_1_1ClosedLoop.html#adc4d868ab888f440144f349aeaa3827f", null ],
+    [ "Kp1", "classClosedLoop_1_1ClosedLoop.html#a1257241e480d8f198e4b5407373676fc", null ],
+    [ "Kp2", "classClosedLoop_1_1ClosedLoop.html#ace47c80a4c6812da0f0c112074b71cd4", null ],
+    [ "Pos1", "classClosedLoop_1_1ClosedLoop.html#ae4435b87ea67e61445af3d8bc6ebc8b2", null ],
+    [ "Pos2", "classClosedLoop_1_1ClosedLoop.html#aa7766b492939c3bfafd75c6577513f22", null ],
+    [ "setpoint1", "classClosedLoop_1_1ClosedLoop.html#afcc578466a49be62d2a7be8af55cc18e", null ],
+    [ "setpoint2", "classClosedLoop_1_1ClosedLoop.html#ae7b70ded07a6e48fb35b10928c9adb94", null ],
+    [ "starttime", "classClosedLoop_1_1ClosedLoop.html#ad7e93c33f30f2de7dc359c48d32d87bf", null ],
+    [ "time", "classClosedLoop_1_1ClosedLoop.html#abe681cb73fb23e4cfdf8c94da8eb4f9c", null ],
+    [ "Time1", "classClosedLoop_1_1ClosedLoop.html#a113eda4ab9015c76fb10989da0290dff", null ],
+    [ "Time2", "classClosedLoop_1_1ClosedLoop.html#ab40185b9b0129e555c175d9c881858e3", null ]
+];
