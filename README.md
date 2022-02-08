@@ -24,7 +24,7 @@ too slow. When the motor control task was running too slowly the controller
 could not keep up with the rest of the system and it would quickly
 become unstable.  
 
-![System Response Slow Motor Task](INSERT_IMAGE_HYPERLINK_HERE) 
+![System Response Slow Motor Task](https://github.com/dcejagon/ME-405-Lab-3/blob/93916dd474e583ed44d1975bc3bd83a204f29c61/BadResponse.png) 
 
 ## Motor Task Running Fast  
 
@@ -32,4 +32,4 @@ The plot below shows the system response when running the motor control
 task an adequate speed.  
 
 
-![System Response Propperly Timed Motor Task](INSERT_IMAGE_HYPERLINK_HERE) 
+![System Response Propperly Timed Motor Task](https://github.com/dcejagon/ME-405-Lab-3/blob/93916dd474e583ed44d1975bc3bd83a204f29c61/GoodResponse.png) 
